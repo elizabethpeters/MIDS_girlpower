@@ -1,7 +1,7 @@
 Modeling Capital Bike Share Demand
 ===================
-
-Current Standing: 1193rd place
+Current Standing: 250th
+Initial Standing: 1193rd place
 
 This repo contain the final MIDS Machine Learning 207 course project for Erin Boehmer, Sharon Lin, and Elizabeth Peters. All data was taken from the Kaggle Bike Sharing page and attributed to:
 
